@@ -10,4 +10,4 @@ sudo apt-get update
 
 sudo apt-get upgrade
 
-sudo apt-get install ec2-instance-connect```
+sudo apt-get install ec2-instance-connect
