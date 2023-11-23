@@ -4,7 +4,7 @@
 
 
 
- ``` bash #!/bin/bash
+ <code> #!/bin/bash \n
 
 sudo apt-get update
 
@@ -12,4 +12,4 @@ sudo apt-get upgrade
 
 sudo apt-get install ec2-instance-connect
 
-sudo less /lib/systemd/system/ssh.service.d/ec2-instance-connect.conf
+sudo less /lib/systemd/system/ssh.service.d/ec2-instance-connect.conf</code>
